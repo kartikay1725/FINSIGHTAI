@@ -84,3 +84,5 @@ email/
 git clone https://github.com/kartikay_1725/finsight-ai.git
 cd finsight-ai
 npm install
+
+hello
